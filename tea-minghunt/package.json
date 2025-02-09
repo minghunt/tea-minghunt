@@ -1,7 +1,7 @@
 {
   "name": "tea-minghunt",
   "version": "0.1.0",
-  "private": true,
+  "private": "false",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -23,5 +23,17 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "@eslint/eslintrc": "^3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minghunt/tea-minghunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minghunt/tea-minghunt/issues"
+  },
+  "homepage": "https://github.com/minghunt/tea-minghunt#readme"
 }
